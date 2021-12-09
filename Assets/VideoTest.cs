@@ -27,6 +27,7 @@ public class VideoTest : MonoBehaviour
         {
             //background1.GetComponent<VideoPlayer>().Pause();
             //background2.GetComponent<VideoPlayer>().Play();
+
             background1.SetActive(false);
 
             //background2.SetActive(true);
